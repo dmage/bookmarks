@@ -7,6 +7,7 @@ My personal bookmarks
   * <http://e-maxx.ru/algo/> (ru) — algorithms
   * <http://www.tldp.org/LDP/abs/html/> — advanced bash-scripting guide
   * <https://aphyr.com/tags/jepsen> — a series of articles on distributed systems correctness
+  * <http://www.brendangregg.com/linuxperf.html> — linux performance
 
 ## Travel
   * <http://wikitravel.org/> — crowdsourced travel guide
