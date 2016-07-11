@@ -9,3 +9,6 @@ My personal bookmarks
 
 ## Travel
   * <http://wikitravel.org/> — crowdsourced travel guide
+
+## Languages
+  * <http://les-verbes.com> — conjuguer les verbes français
