@@ -9,6 +9,7 @@ My personal bookmarks
   * <https://aphyr.com/tags/jepsen> — a series of articles on distributed systems correctness
   * <https://aphyr.com/posts/313-strong-consistency-models> — strong consistency models
   * <http://www.brendangregg.com/linuxperf.html> — linux performance
+  * <https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/> — dark corners of Unicode
 
 ## Travel
   * <http://wikitravel.org/> — crowdsourced travel guide
