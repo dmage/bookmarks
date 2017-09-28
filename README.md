@@ -28,3 +28,5 @@ My personal bookmarks.
 
   * <http://les-verbes.com> — conjuguer les verbes français
   * <http://learnenglish.britishcouncil.org/en/content> — LearnEnglish at British Council
+  * <https://www.thepunctuationguide.com> — the American punctuation guide
+  * <https://developers.google.com/style/> — Google Developer Documentation Style Guide
