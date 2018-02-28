@@ -43,3 +43,4 @@ My personal bookmarks.
 
   * <http://demo.ipavlov.ai>
   * <http://demo.allennlp.org>
+  * <http://rusvectores.org> — RusVectōrēs
