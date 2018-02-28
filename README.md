@@ -30,3 +30,16 @@ My personal bookmarks.
   * <http://learnenglish.britishcouncil.org/en/content> — LearnEnglish at British Council
   * <https://www.thepunctuationguide.com> — the American punctuation guide
   * <https://developers.google.com/style/> — Google Developer Documentation Style Guide
+
+## Natural Language Processing and Machine Learning
+
+  * <https://deepmind.com> — DeepMind
+  * <http://allennlp.org> — AllenNLP, an open-source NLP research library
+  * <https://radimrehurek.com/gensim/> — gensim, Topic Modelling with Large Corpora
+  * <https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6> — Natural Language Processing with Deep Learning (Winter 2017), Stanford University School of Engineering
+  * <https://research.googleblog.com/2017/07/building-your-own-neural-machine.html> — seq2seq models
+
+### Demos
+
+  * <http://demo.ipavlov.ai>
+  * <http://demo.allennlp.org>
