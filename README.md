@@ -31,6 +31,9 @@ My personal bookmarks.
   * <https://www.thepunctuationguide.com> — the American punctuation guide
   * <https://developers.google.com/style/> — Google Developer Documentation Style Guide
 
+## Mathematics
+  * <https://www.statisticsdonewrong.com> — Statistics Done Wrong
+
 ## Natural Language Processing and Machine Learning
 
   * <https://deepmind.com> — DeepMind
@@ -38,6 +41,9 @@ My personal bookmarks.
   * <https://radimrehurek.com/gensim/> — gensim, Topic Modelling with Large Corpora
   * <https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6> — Natural Language Processing with Deep Learning (Winter 2017), Stanford University School of Engineering
   * <https://research.googleblog.com/2017/07/building-your-own-neural-machine.html> — seq2seq models
+  * <https://nlpprogress.com> — tracking progress in Natural Language Processing
+  * <https://www.fast.ai> — making neural nets uncool again
+  * <https://developers.google.com/machine-learning/crash-course/> — Machine Learning Crash Course
 
 ### Demos
 
