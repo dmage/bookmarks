@@ -37,6 +37,7 @@ My personal bookmarks.
 
   * <http://e-maxx.ru/algo/> (ru) — algorithms
   * <https://www.statisticsdonewrong.com> — Statistics Done Wrong
+  * <https://danaernst.com/resources/free-and-open-source-textbooks/> — free and open-source textbooks
 
 ## Natural Language Processing and Machine Learning
 
